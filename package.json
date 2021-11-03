@@ -1,0 +1,20 @@
+{
+  "name": "javascript-samples",
+  "version": "1.0.0",
+  "description": "JavaScript Sample Examples",
+  "main": "./modules/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shobhit-bhardwaj/javascript-samples.git"
+  },
+  "author": "Shobhit Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shobhit-bhardwaj/javascript-samples/issues"
+  },
+  "homepage": "https://github.com/shobhit-bhardwaj/javascript-samples#readme"
+}
