@@ -1,7 +1,7 @@
 //  Default     ->  import ... from '';
 //  Named       ->  import { ... } from '';
 //  Mixed       ->  import ..., { ... } from '';
-//  Import *    ->  import * as alias from ''
+//  alias       ->  import * as alias from ''
 
 import Person from "./person.js";
 import { addition, subtraction, PI } from "./calculator.js";
